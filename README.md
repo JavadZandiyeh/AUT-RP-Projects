@@ -6,3 +6,8 @@ AUT Research and Technical Presentation Course Homework<br/>
 > part 3: which problems does this research want to solve? / fishbone diagram<br/>
 > part 4: mind map<br/>
 > part 5: reasons for selecting this research topic<br/>
+- phase 2 (find, evaluate, and refinement of resources):
+> part 1: steps to search for articles / types of available articles<br/>
+> part 2: metrics of journals and articles (Impact Factor, Citations, h-index)<br/>
+> part 3: other metrics of journals and articles(SRJ, Total Cites (3years))<br/>
+> part 4: list of selected articles (in order of priority)
