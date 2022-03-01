@@ -1,4 +1,4 @@
-# AUT-RP
+# Research and Technical Presentation
 AUT Research and Technical Presentation Course Homework<br/>
 - phase 1 (select research topic):
 > part 1: problem statement / references<br/>
