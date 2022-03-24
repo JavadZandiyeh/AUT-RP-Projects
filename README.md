@@ -11,3 +11,8 @@ AUT Research and Technical Presentation Course Homework<br/>
 > part 2: metrics of journals and articles (Impact Factor, Citations, h-index)<br/>
 > part 3: other metrics of journals and articles(SRJ, Total Cites (3years))<br/>
 > part 4: list of selected articles (in order of priority)
+- phase 3 (study and take notes of one resource):
+> part 1: name and number of the selected article
+> part 2: the base structure of research
+> part 3: fiches
+> part 4: marked resource
